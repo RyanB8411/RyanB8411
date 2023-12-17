@@ -10,7 +10,7 @@ restart my career in software engineering. Through multiple heart surgeries led 
 became a hobby and I eventually turned this into going to school for software engineering and starting Freedom Script LLC.
 
 As a student at the University of Maryland Global Campus I found my passion for developing. Indirectly I also found that 
-Professors did not teach enough for me to retain developing procedures and knowledge. This is where I found that a tutor
+online school was much harder to retain developing procedures and knowledge. This is where I found that a tutor
 service was absolutely needed. I used multiple tutoring platforms but never had any success in learning techniques. As a veteran
 I found that we need more resources available to us for programming and this is why if you need an help with coding feel free 
 to message me and we can collaborate on some projects.
