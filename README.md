@@ -2,7 +2,7 @@ Hello I am Ryan B
 
 I am currently a Software Engineer that founded Freedom Script LLC for tutoring and software development.
 I am also a tutor on other platforms to include Tutor.com, SuperProf, and PearDeck Tutor.
-With FreedomScript and other platforms I have successfully helped over 500 students with Computer Programming.
+With FreedomScript and other platforms I have successfully helped over 750 students with Computer Programming.
 
 My passion is for teaching and developing software.
 
