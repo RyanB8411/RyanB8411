@@ -15,7 +15,7 @@ As a student at the University of Maryland Global Campus I found my passion for 
 online school was much harder to retain developing procedures and knowledge. This is where I found that a tutor
 service was absolutely needed. I used multiple tutoring platforms but never had any success in learning techniques. As a veteran
 I found that we need more resources available to us for programming and this is why if you need an help with coding feel free 
-to message me and we can collaborate on some projects or I can help with assignents as needed.
+to message me and we can collaborate on some projects or I can help with assignments as needed.
 
 Cheers,
 Ryan B
